@@ -1,7 +1,7 @@
 <p align='center'>
-<a href="https://twitter.com/VivekSe53926067"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/dream_curator"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vivek-sengar"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/VivekSe53926067" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vivek_sengar31" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vivek-sengar" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hi there! My name is Vivek Sengar. 👋🤓</h2>
